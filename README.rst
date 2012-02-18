@@ -8,7 +8,7 @@ projects into the default starter scaffold.
 Major Integrations
 ------------------------
 
-* `HTML5 Boilerplate<https://github.com/h5bp/html5-boilerplate>`
+* _HTML5 Boilerplate: https://github.com/h5bp/html5-boilerplate
 * `Modernizr<http://www.modernizr.com/>` (`LICENSE<http://www.modernizr.com/license/>`) 
 * `Twitter Bootstrap<http://twitter.github.com/bootstrap/>` (`LICENSE<http://www.apache.org/licenses/LICENSE-2.0>`)
 * `RequireJS<http://requirejs.org>` (`LICENSE<https://github.com/jrburke/requirejs/blob/master/LICENSE>`)
