@@ -7,11 +7,11 @@ README = open(os.path.join(here, 'README.rst')).read()
 CHANGES = open(os.path.join(here, 'CHANGES.rst')).read()
 
 requires = [
-    'pyramid'
+    'pyramid >= 1.3'
     ]
 
 setup(name='pyramid_modern',
-      version='0.1.1',
+      version='1.0',
       description='Modern Frontend Pyramid Scaffold',
       long_description=README + '\n\n' +  CHANGES,
       classifiers=[
@@ -22,7 +22,7 @@ setup(name='pyramid_modern',
         ],
       author='Luke Dary',
       author_email='',
-      url='',
+      url='https://github.com/KamiQuasi/pyramid_modern',
       keywords='web pyramid pylons',
       packages=find_packages(),
       include_package_data=True,
