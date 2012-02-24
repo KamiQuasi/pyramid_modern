@@ -20,7 +20,7 @@
   <![endif]-->
 
   <!-- Require JS -->
-  <!--<script data-main="/assets/js/init" src="${request.static_url('{{package}}:assets/global/js/libs/requirejs/1.0.5/requirejs-min.js')}"></script>-->
+  <!--<script data-main="/assets/js/init" src="${request.static_url('{{package}}:assets/global/js/libs/requirejs/1.0.7/requirejs-min.js')}"></script>-->
 
   <!-- Modernizr Kitchen Sink -->
   <script src="${request.static_url('{{package}}:assets/global/js/libs/modernizr/modernizr.js')}"></script>
