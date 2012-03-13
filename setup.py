@@ -11,7 +11,7 @@ requires = [
     ]
 
 setup(name='pyramid_modern',
-      version='1.0',
+      version='1.0.2',
       description='Modern Frontend Pyramid Scaffold',
       long_description=README + '\n\n' +  CHANGES,
       classifiers=[

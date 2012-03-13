@@ -44,7 +44,7 @@
       </div>
     </div>
     <div class="container-fluid content">
-      <div class="row">
+      <div class="row-fluid">
         <div class="span6 right-align">
           <h2>Search documentation</h2>
           <form class="form-search" method="get" action="http://docs.pylonsproject.org/projects/pyramid/current/search.html">
